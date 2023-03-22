@@ -8,3 +8,5 @@ jobs:
       - uses: hydephp/action@add-option-to-specify-hyde-version-for-anonymous-projects
         #with:
         #  key: 'Value'
+        with:
+          version: dev-develop
